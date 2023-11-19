@@ -1,0 +1,92 @@
+[
+  {
+    "id": 4,
+    "title": "Laundry",
+    "description": "Wash clothes, dry clothes, fold clothes",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "title": "Homework",
+    "description": "Finish math assignment, read history chapter",
+    "completed": false
+  },
+  {
+    "id": 6,
+    "title": "Cook dinner",
+    "description": "Make pasta with marinara sauce",
+    "completed": false
+  },
+  {
+    "id": 7,
+    "title": "Clean the house",
+    "description": "Vacuum, dust, mop",
+    "completed": false
+  },
+  {
+    "id": 8,
+    "title": "Pay bills",
+    "description": "Pay rent, electricity, phone",
+    "completed": false
+  },
+  {
+    "id": 9,
+    "title": "Go to the gym",
+    "description": "Run on the treadmill, lift weights",
+    "completed": false
+  },
+  {
+    "id": 10,
+    "title": "Catch up with friends",
+    "description": "Have coffee, go to the movies",
+    "completed": false
+  },
+  {
+    "id": 11,
+    "title": "Read a book",
+    "description": "Read for at least 30 minutes",
+    "completed": false
+  },
+  {
+    "id": 12,
+    "title": "Learn something new",
+    "description": "Take an online course, watch a documentary",
+    "completed": false
+  },
+  {
+    "id": 13,
+    "title": "Volunteer",
+    "description": "Help at a local soup kitchen or animal shelter",
+    "completed": false
+  },
+  {
+    "id": 14,
+    "title": "Take a walk",
+    "description": "Enjoy the fresh air and sunshine",
+    "completed": false
+  },
+  {
+    "id": 15,
+    "title": "Meditate",
+    "description": "Clear your mind and relax",
+    "completed": false
+  },
+  {
+    "id": 16,
+    "title": "Get a good night's sleep",
+    "description": "Aim for 7-8 hours of sleep",
+    "completed": false
+  },
+  {
+    "id": 17,
+    "title": "Have fun!",
+    "description": "Make time for activities you enjoy",
+    "completed": false
+  },
+  {
+    "id": 18,
+    "title": "Be yourself",
+    "description": "Accept and embrace your unique qualities",
+    "completed": false
+  }
+]

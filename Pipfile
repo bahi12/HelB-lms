@@ -7,6 +7,9 @@ name = "pypi"
 django = "*"
 djangorestframework = "*"
 django-cors-headers = "*"
+reactstrap = "*"
+react = "*"
+react-dom = "*"
 
 [dev-packages]
 
