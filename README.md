@@ -1,2 +1,2 @@
 # HelB
-Laravel blog project
+Django and react todo app
